@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="alert">#CC0000</color>
+    <color name="confirm">#FF8800</color>
+    <color name="info">#669900</color>
+    <color name="activity_bg">#EAEAEA</color>
+    <!-- 页面背景 -->
+    <color name="line_bg">#cccccc</color>
+    <!-- 分割线 -->
+    <color name="text_color">#666666</color>
+    <!-- 文字颜色 -->
+    <color name="layout_select_bg">#dde9f9</color>
+    <color name="green_button_normal">#5b8d25</color>
+    <color name="green_button_selected">#295112</color>
+    <color name="green_button_disable">#b5b5b5</color>
+    <color name="green_button_stroke">#48582b</color>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tools</string>
+    <string name="login_title">登录</string>
+    <string name="login_username_hint">请输入账号</string>
+    <string name="login_password_hint">请输入密码</string>
+
+    <!-- EditText Max Length -->
+    <string name="max_length_username">15</string>
+    <string name="max_length_password">16</string>
+
+</resources>
